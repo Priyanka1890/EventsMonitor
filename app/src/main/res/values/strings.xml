@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Events Monitor</string>
+
+    <string name="subscribe_label" description="Text on subscribe/unsubscribe button">Subscribe</string>
+    <string name="unsubscribe_label" description="Text on subscribe/unsubscribe button">Unsubscribe</string>
+    <string name="event_type_desc_label" description="Event type">Event: </string>
+    <string name="event_time_desc_label" description="Event timestamp">Timestamp: </string>
+    <string name="empty_label" description="Empty value"> </string>
+    <string name="not_all_permissions_granted" description="Some of permissions not granted">Not all permissions granted.</string>
+    <string name="not_all_health_events_available" description="Some health events not available">Some health events not available.</string>
+</resources>
